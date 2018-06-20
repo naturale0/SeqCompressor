@@ -9,6 +9,8 @@ FASTA format 파일을 압축하는 알고리즘입니다. 재미로 공부하�
 
 # Compressor/Decompressor scripts and corresponding format
 
+```
 [COMPRESS]           [DECOMPR]         [FORMAT]
 fa2said.py    <->    said2fa.py        *.said
 fa2two.py     <->    two2fa.py         *.two
+```
